@@ -1,76 +1,76 @@
 {
-    "azureResourceLocation": "eastus2",
+    "azureResourceLocation": "uksouth,
 
-    "PrimaryRgName": "",
+    "PrimaryRgName": "uksouth",
 
     "tags": {
         "env": "dev"
     },
 
-    "fabricCapacityName": "",
+    "fabricCapacityName": "fabricdataaiplatform",
 
-    "fabricSKU": "F2",
+    "fabricSKU": "F4",
     
     "synapseWorkspaceName": "",
 
-    "dataFactoryName": "",
+    "dataFactoryName": "dataaiplatform",
 
-    "azureSQLServerName": "",
+    "azureSQLServerName": "dataaiplatform",
     "azureSQLServerDBName": "MetadataControl",
 
-    "keyVaultName": "",
+    "keyVaultName": "dataaiplatform",
 
-    "dataLakeName": "",
+    "dataLakeName": "dataaiplatform",
 
-    "landingStorageName": "",
+    "landingStorageName": "dataaiplatform",
 
-    "LogicAppRgName": "",
+    "LogicAppRgName": "uksouth",
 
-    "logicAppName": "",
+    "logicAppName": "dataaiplatform",
 
-    "logicAppServicePlanName": "",
+    "logicAppServicePlanName": "dataaiplatform",
 
-    "logicAppStorageName": "",
+    "logicAppStorageName": "dataaiplatform",
 
-    "logicAppInsightsName": "",
+    "logicAppInsightsName": "dataaiplatform",
 
-    "purviewName": "",
+    "purviewName": "dataaiplatform",
 
-    "logAnalyticsName": "",
+    "logAnalyticsName": "dataaiplatform",
 
-    "MlRgName": "",
+    "MlRgName": "uksouth",
 
-    "mlWorkspaceName": "",
+    "mlWorkspaceName": "dataaiplatform",
 
-    "mlWorkspaceKeyVaultName": "",
+    "mlWorkspaceKeyVaultName": "dataaiplatform",
 
-    "mlStorageName": "",
+    "mlStorageName": "dataaiplatform",
 
-    "mlAppInsightsName": "",
+    "mlAppInsightsName": "dataaiplatform",
 
-    "mlContainerRegistryName": "",
+    "mlContainerRegistryName": "dataaiplatform",
 
-    "databricksWorkspaceName": "",
+    "databricksWorkspaceName": "dataaiplatform",
 
-    "cognitiveServiceName": "",
+    "cognitiveServiceName": "dataaiplatform",
 
-    "eventHubNamespaceName": "",
+    "eventHubNamespaceName": "dataaiplatform",
 
-    "streamAnalyticsName": "",
+    "streamAnalyticsName": "dataaiplatform",
 
-    "OpenAIRgName": "",
+    "OpenAIRgName": "uksouth",
 
-    "OpenAIServiceName": "",
+    "OpenAIServiceName": "dataaiplatform",
 
-    "OpenAICognitiveSearchName": "",
+    "OpenAICognitiveSearchName": "dataaiplatform",
 
-    "OpenAIDemoAppName": "",
+    "OpenAIDemoAppName": "dataaiplatform",
 
-    "OpenAIDemoAppInsightsName": "",
+    "OpenAIDemoAppInsightsName": "dataaiplatform",
 
-    "OpenAIDemoKeyVaultName": "",
+    "OpenAIDemoKeyVaultName": "dataaiplatform",
 
-    "OpenAIDemoDocumentIntelligenceName": "",
+    "OpenAIDemoDocumentIntelligenceName": "dataaiplatform",
     
-    "OpenAIDemoAppServicePlanName": ""
+    "OpenAIDemoAppServicePlanName": "dataaiplatform"
 }
