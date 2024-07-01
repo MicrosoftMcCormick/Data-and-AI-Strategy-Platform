@@ -1,7 +1,7 @@
 {
-    "azureResourceLocation": "uksouth,
+    "azureResourceLocation": "uksouth",
 
-    "PrimaryRgName": "uksouth",
+    "PrimaryRgName": "data-ai-platform",
 
     "tags": {
         "env": "dev"
@@ -24,7 +24,7 @@
 
     "landingStorageName": "dataaiplatform",
 
-    "LogicAppRgName": "uksouth",
+    "LogicAppRgName": "data-ai-platform",
 
     "logicAppName": "dataaiplatform",
 
@@ -38,7 +38,7 @@
 
     "logAnalyticsName": "dataaiplatform",
 
-    "MlRgName": "uksouth",
+    "MlRgName": "data-ai-platform",
 
     "mlWorkspaceName": "dataaiplatform",
 
@@ -58,7 +58,7 @@
 
     "streamAnalyticsName": "dataaiplatform",
 
-    "OpenAIRgName": "uksouth",
+    "OpenAIRgName": "data-ai-platform",
 
     "OpenAIServiceName": "dataaiplatform",
 
