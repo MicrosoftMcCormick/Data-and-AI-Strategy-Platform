@@ -38,17 +38,17 @@
 
     "logAnalyticsName": "loganalyticsdataai",
 
-    "MlRgName": "data-ai-platform",
+    "MlRgName": "",
 
-    "mlWorkspaceName": "mlworkspacedataai",
+    "mlWorkspaceName": "",
 
-    "mlWorkspaceKeyVaultName": "charliekeyvaultdataai",
+    "mlWorkspaceKeyVaultName": "",
 
-    "mlStorageName": "mlstoragedataai",
+    "mlStorageName": "",
 
-    "mlAppInsightsName": "mlappinsightsdataai",
+    "mlAppInsightsName": "",
 
-    "mlContainerRegistryName": "mlcontainerregdataai",
+    "mlContainerRegistryName": "",
 
     "databricksWorkspaceName": "databricksdatai",
 
