@@ -42,7 +42,7 @@
 
     "mlWorkspaceName": "mlworkspacedataai",
 
-    "mlWorkspaceKeyVaultName": "mlkeyvaultdataai",
+    "mlWorkspaceKeyVaultName": "mlwskeyvaultdataai",
 
     "mlStorageName": "mlstoragedataai",
 
