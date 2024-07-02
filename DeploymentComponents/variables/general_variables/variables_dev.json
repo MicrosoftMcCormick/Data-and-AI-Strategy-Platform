@@ -34,7 +34,7 @@
 
     "logicAppInsightsName": "logicappinsightsdataai",
 
-    "purviewName": "purview",
+    "purviewName": "purviewdataai",
 
     "logAnalyticsName": "loganalyticsdataai",
 
@@ -42,7 +42,7 @@
 
     "mlWorkspaceName": "",
 
-    "mlWorkspaceKeyVaultName": "charliemlkeyvaultdataai",
+    "mlWorkspaceKeyVaultName": "",
 
     "mlStorageName": "",
 
