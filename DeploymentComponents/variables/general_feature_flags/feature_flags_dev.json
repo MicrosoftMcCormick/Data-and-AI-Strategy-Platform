@@ -51,7 +51,7 @@
 
     "DeployLogicAppArtifacts": true,
 
-    "DeployLogAnalytics": false,
+    "DeployLogAnalytics": true,
     
     "DeployMLWorkspace": true,
 
