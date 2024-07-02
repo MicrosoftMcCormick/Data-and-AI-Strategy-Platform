@@ -28,7 +28,7 @@
 
     "logicAppName": "logicappdataai",
 
-    "logicAppServicePlanName": "logicappserviceplandataai",
+    "logicAppServicePlanName": "logicappservicedataai",
 
     "logicAppStorageName": "logicappstoragedataai",
 
@@ -42,7 +42,7 @@
 
     "mlWorkspaceName": "mlworkspacedataai",
 
-    "mlWorkspaceKeyVaultName": "mlworkspacekeyvaultdataai",
+    "mlWorkspaceKeyVaultName": "mlkeyvaultdataai",
 
     "mlStorageName": "mlstoragedataai",
 
@@ -62,13 +62,13 @@
 
     "OpenAIServiceName": "openaiservicedataai",
 
-    "OpenAICognitiveSearchName": "opeaicognitivesearchdataai",
+    "OpenAICognitiveSearchName": "opeaicogsearchdataai",
 
     "OpenAIDemoAppName": "openaidemoappdataai",
 
-    "OpenAIDemoAppInsightsName": "openaidemoappinsightdataai",
+    "OpenAIDemoAppInsightsName": "openaidemoinsightdataai",
 
-    "OpenAIDemoKeyVaultName": "openaidemokeyvaultdataai",
+    "OpenAIDemoKeyVaultName": "openaikvdataai",
 
     "OpenAIDemoDocumentIntelligenceName": "openaidocintelldataai",
     
