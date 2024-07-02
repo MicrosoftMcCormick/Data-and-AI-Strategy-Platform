@@ -53,11 +53,11 @@
 
     "DeployLogAnalytics": true,
     
-    "DeployMLWorkspace": true,
+    "DeployMLWorkspace": false,
 
-    "DeployMLCompute": true,
+    "DeployMLCompute": false,
     
-    "DeployCognitiveService": true,
+    "DeployCognitiveService": false,
     
     "DeployEventHubNamespace": false,
 
