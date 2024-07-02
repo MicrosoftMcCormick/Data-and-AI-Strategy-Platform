@@ -7,70 +7,70 @@
         "env": "dev"
     },
 
-    "fabricCapacityName": "fabricdataaiplatform",
+    "fabricCapacityName": "FabricCapacityDataAI",
 
     "fabricSKU": "F4",
     
     "synapseWorkspaceName": "",
 
-    "dataFactoryName": "dataaiplatformdf",
+    "dataFactoryName": "DataFactoryDataAI",
 
-    "azureSQLServerName": "dataaiplatformsql",
+    "azureSQLServerName": "SQLServerDataAI",
     "azureSQLServerDBName": "MetadataControl",
 
-    "keyVaultName": "dataaiplatformkv",
+    "keyVaultName": "KeyVaultDataAI",
 
-    "dataLakeName": "dataaiplatformdl",
+    "dataLakeName": "DataLakeDataAI",
 
-    "landingStorageName": "dataaiplatformls",
+    "landingStorageName": "LandingStorageDataAI",
 
     "LogicAppRgName": "data-ai-platform",
 
-    "logicAppName": "dataaiplatformla",
+    "logicAppName": "LogicAppDataAI",
 
-    "logicAppServicePlanName": "dataaiplatformlasp",
+    "logicAppServicePlanName": "LogicAppServicePlanDataAI",
 
-    "logicAppStorageName": "dataaiplatformlasn",
+    "logicAppStorageName": "LogicAppStorageDataAI",
 
-    "logicAppInsightsName": "dataaiplatformlain",
+    "logicAppInsightsName": "LogicAppInsightsNameDataAI",
 
-    "purviewName": "dataaiplatformpur",
+    "purviewName": "PurviewDataAI",
 
-    "logAnalyticsName": "dataaiplatformlog",
+    "logAnalyticsName": "LogAnalyticsDataAI",
 
     "MlRgName": "data-ai-platform",
 
-    "mlWorkspaceName": "dataaiplatformmlws",
+    "mlWorkspaceName": "MLWorkspaceDataAI",
 
-    "mlWorkspaceKeyVaultName": "dataaiplatformmlkv",
+    "mlWorkspaceKeyVaultName": "MLWorkspaceKeyVaultDataAI",
 
-    "mlStorageName": "dataaiplatformmlstore",
+    "mlStorageName": "MLStorageDataAI",
 
-    "mlAppInsightsName": "dataaiplatformmlappinsight",
+    "mlAppInsightsName": "MLAppInsightsDataAI",
 
-    "mlContainerRegistryName": "dataaiplatformmlcontreg",
+    "mlContainerRegistryName": "MLContainerRegDataAI",
 
-    "databricksWorkspaceName": "dataaiplatformdbws",
+    "databricksWorkspaceName": "DatabricksWorkspaceDataAI",
 
-    "cognitiveServiceName": "dataaiplatformcogserv",
+    "cognitiveServiceName": "CognitiveServiceDataAI",
 
-    "eventHubNamespaceName": "dataaiplatformeventhub",
+    "eventHubNamespaceName": "EventHubDataAI",
 
-    "streamAnalyticsName": "dataaiplatformstreamanalyt",
+    "streamAnalyticsName": "StreamAnalyticsDataAI",
 
     "OpenAIRgName": "data-ai-platform",
 
-    "OpenAIServiceName": "dataaiplatformopenai",
+    "OpenAIServiceName": "OpenAIServiceDataAI",
 
-    "OpenAICognitiveSearchName": "dataaiplatformopenaicog",
+    "OpenAICognitiveSearchName": "OpenAICognitiveServiceDataAI",
 
-    "OpenAIDemoAppName": "dataaiplatformopenaidemoapp",
+    "OpenAIDemoAppName": "OpenAIDemoAppDataAI",
 
-    "OpenAIDemoAppInsightsName": "dataaiplatformopenaidemoai",
+    "OpenAIDemoAppInsightsName": "OpenAIDemoAppInsightsDataAI",
 
-    "OpenAIDemoKeyVaultName": "dataaiplatformopenaikv",
+    "OpenAIDemoKeyVaultName": "OpenAIDemoKeyVaultDataAI",
 
-    "OpenAIDemoDocumentIntelligenceName": "dataaiplatformopenaidemodoc",
+    "OpenAIDemoDocumentIntelligenceName": "OpenAIDemoDocIntelDataAI",
     
-    "OpenAIDemoAppServicePlanName": "dataaiplatformopenaidemoappserv"
+    "OpenAIDemoAppServicePlanName": "OpenAIDemoAppServicePlanDataAI"
 }
