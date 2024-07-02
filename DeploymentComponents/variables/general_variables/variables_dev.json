@@ -1,5 +1,5 @@
 {
-    "azureResourceLocation": "uksouth",
+    "azureResourceLocation": "eastus2",
 
     "PrimaryRgName": "data-ai-platform",
 
